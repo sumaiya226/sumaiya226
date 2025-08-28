@@ -1,88 +1,48 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/sumaiya226/sumaiya226/blob/main/assets/banner.png" alt="Sumaiya Shaik Banner" />
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sumaiya!%20👋&fontSize=40&fontAlignY=35)
 
-<!-- Typing SVG -->
+<!-- Dynamic Interests -->
 <p align="center">
-  <a href="https://github.com/sumaiya226">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sumaiya+👩‍💻;Aspiring+SDE+💻;AI+%26+Full-Stack+Developer+🚀;Turning+Ideas+into+Code+✨;Always+Learning+📚">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Exploring+Cloud+%26+DevOps;Building+Scalable+Apps;Open+Source+Contributor" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🔭 Currently building: **CrowdWisdom Trading AI Agent** & **EventForge Platform**  
-- 🌱 Currently learning: **LangChain, AWS deployments, scalable MERN apps**  
-- 💬 Ask me about: **Python, Java, React, MongoDB, APIs, Docker**  
-- 🏅 Highlights: Built **Smart Basketball Scoreboard (IoT + CV)**, AI-powered Hiring Assistant  
-- 🎯 Goal: Grow into an **SDE role** and create **impact-driven AI + web products**  
+- 🎓 Aspiring **Software Development Engineer** with a strong interest in **AI & Full-Stack Development**  
+- 🚀 Passionate about building scalable, user-friendly, and impactful applications  
+- 🌱 Currently learning: **XGBoost, LangChain, and Advanced MERN**  
+- 💡 Goal: Grow into an **SDE role** while exploring the intersection of **AI + Web**  
+
 
 ---
 
-## 🛠️ Tech & Tools
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-- 🧠 [**CrowdWisdom Trading AI Agent**](https://github.com/sumaiya226/crowdwisdomtrading_ai_agent) – AI for smarter trading  
-- 🎟️ [**EventForge**](https://github.com/sumaiya226/eventforge) – Full-stack event management  
-- 🤖 [**TalentScout Hiring Assistant**](https://github.com/sumaiya226/talentscout-hiring-assistant) – LLM-powered recruitment  
-- 📊 [**Binance Futures Bot**](https://github.com/sumaiya226/binance-futures-bot) – Automated trading with APIs  
-- 🎓 [**Learning Path Generator**](https://github.com/sumaiya226/learning-platform) – Personalized AI learning journeys  
-
----
-
-## 📈 GitHub Analytics  
-
+## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya226&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya226&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumaiya226&theme=tokyonight" height="160"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,figma,aws" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumaiya226/sumaiya226/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya226&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya226&theme=tokyonight" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya226&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🎉 Fun Zone  
+## 📫 Connect With Me
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+  <a href="mailto:sumaiya226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sumaiya226/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sumaiya226"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-📬 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumaiyashaik26)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sumaiya226)  
-✉️ sultanasumaiya623@gmail.com  
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
